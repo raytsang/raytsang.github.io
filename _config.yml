@@ -65,6 +65,7 @@ apps:
  - name: 億萬遺跡
    platform: iOS and Android
    url: https://itunes.apple.com/hk/app/%E5%84%84%E8%90%AC%E9%81%BA%E8%B7%A1/id1369877100?mt=8
+   url: https://play.google.com/store/apps/details?id=hk.com.skytree.trillionia
    description: Monopoly game using cards
 
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
