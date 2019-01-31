@@ -70,8 +70,7 @@ apps:
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
 additionalinfo: |
 
-<p>
-   Game Name: 撲克龍王 (March 2007 ~ June 2007)
+<p>Game Name: 撲克龍王 (March 2007 ~ June 2007)
    Duration: 4 Months
    Platform: Arcade Game
    Description: A classic video poker game with an extra sixth card. Player may bet with any amount for a game and payout with the patterns. Two jokers is included in the game so as to make more fun.
@@ -151,5 +150,4 @@ additionalinfo: |
    Duty: Developing both client and server side of the game. Scheduling the tasks for all teammates including me and give some guidelines to them if needed. Develop the user interface and coding card effect are the main duty for me.
    Programming Language:
       Client: Unity3D using C# script
-      Server: PHP, Node.js, MySQL, AWS, Docker
-</p>
+      Server: PHP, Node.js, MySQL, AWS, Docker</p>
