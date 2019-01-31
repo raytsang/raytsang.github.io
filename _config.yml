@@ -68,85 +68,85 @@ apps:
    description: Monopoly game using cards
 
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
-additionalinfo: >
-	Game Name: 撲克龍王 (March 2007 ~ June 2007)
-	Duration: 4 Months
-	Platform: Arcade Game
-	Description: A classic video poker game with an extra sixth card. Player may bet with any amount for a game and payout with the patterns. Two jokers is included in the game so as to make more fun.
-	Scale: 1 programmer + 1 designer
-	Duty: All the coding staff including game flow, game logic, graphic, hardware button input.
-	Programming Language: Visual C++ 6.0 with game engine called TV3D.
+additionalinfo: |
+   Game Name: 撲克龍王 (March 2007 ~ June 2007)
+   Duration: 4 Months
+   Platform: Arcade Game
+   Description: A classic video poker game with an extra sixth card. Player may bet with any amount for a game and payout with the patterns. Two jokers is included in the game so as to make more fun.
+   Scale: 1 programmer + 1 designer
+   Duty: All the coding staff including game flow, game logic, graphic, hardware button input.
+   Programming Language: Visual C++ 6.0 with game engine called TV3D.
 
-	Game Name: 麻雀皇 - The King of Mahjong (June 2007 ~ April 2008)
-	Duration: 10 Months
-	Platform: Arcade Game
-	Description: A network mahjong game with Hong Kong Style and Taiwan Style. Player can use a IC card to keep the player records. There is a regular tournament every 14 days. The winner will get a unique item to equip with the avatar system.
-	Scale: 1 programmer + 1 2D-designer + 1 3D-modeler
-	Duty: All the coding staff including game flow, game logic, graphic, hardware touch screen input, database management, networking for the multiplayer game, artificial intelligence for the single player game. 
-	Programming Language: Visual C++ 6.0 with game engine called TV3D.
+   Game Name: 麻雀皇 - The King of Mahjong (June 2007 ~ April 2008)
+   Duration: 10 Months
+   Platform: Arcade Game
+   Description: A network mahjong game with Hong Kong Style and Taiwan Style. Player can use a IC card to keep the player records. There is a regular tournament every 14 days. The winner will get a unique item to equip with the avatar system.
+   Scale: 1 programmer + 1 2D-designer + 1 3D-modeler
+   Duty: All the coding staff including game flow, game logic, graphic, hardware touch screen input, database management, networking for the multiplayer game, artificial intelligence for the single player game. 
+   Programming Language: Visual C++ 6.0 with game engine called TV3D.
 
-	Game Name: 麻雀皇2 - The King of Mahjong 2 (April 2008 ~ March 2010)
-	Duration: 8 Months (Development) + Update & Maintenance (After Release)
-	Platform: Arcade Game
-	Description: An extension of the previous game with one more playing style - Japanese Style. More features are added to the game to make more fun. Players can using the current IC card to carry over the player data to the new system.
-	Scale: 1 programmer + 1 2D-designer + 1 3D-modeler
-	Duty: All the coding staff including game flow, game logic, graphic, hardware touch screen input, database management, networking for the multiplayer game, artificial intelligence for the single player game. 
-	Programming Language: Visual C++ 6.0 with game engine called TV3D.
+   Game Name: 麻雀皇2 - The King of Mahjong 2 (April 2008 ~ March 2010)
+   Duration: 8 Months (Development) + Update & Maintenance (After Release)
+   Platform: Arcade Game
+   Description: An extension of the previous game with one more playing style - Japanese Style. More features are added to the game to make more fun. Players can using the current IC card to carry over the player data to the new system.
+   Scale: 1 programmer + 1 2D-designer + 1 3D-modeler
+   Duty: All the coding staff including game flow, game logic, graphic, hardware touch screen input, database management, networking for the multiplayer game, artificial intelligence for the single player game. 
+   Programming Language: Visual C++ 6.0 with game engine called TV3D.
 
-	Game Name: The King of Caribbean Poker (March 2010 ~ April 2011)
-	Duration: 13 Months
-	Platform: Arcade Game
-	Description: A Caribbean Poker game with the standard casino rule. Player plays the game using the medals. Medals can be payout if the player wins. There is a shared Jackpot within the same arcade center. Usually there will be four stations of the game linked together for the jackpot system.
-	Scale: 1 programmer + 1 2D-designer + 1 3D-modeler
-	Duty: All the coding staff including game flow, game logic, graphic, hardware button input, networking for the shared jackpot.
-	Programming Language: Visual C++ 6.0 with game engine called TV3D.
+   Game Name: The King of Caribbean Poker (March 2010 ~ April 2011)
+   Duration: 13 Months
+   Platform: Arcade Game
+   Description: A Caribbean Poker game with the standard casino rule. Player plays the game using the medals. Medals can be payout if the player wins. There is a shared Jackpot within the same arcade center. Usually there will be four stations of the game linked together for the jackpot system.
+   Scale: 1 programmer + 1 2D-designer + 1 3D-modeler
+   Duty: All the coding staff including game flow, game logic, graphic, hardware button input, networking for the shared jackpot.
+   Programming Language: Visual C++ 6.0 with game engine called TV3D.
 
-	Game Name: 麻雀皇x麻將天下 (April 2011 ~ December 2012)
-	Duration: 12 Months (Development) + Update & Maintenance (After Release)
-	Platform: PC Game
-	Description: An extension of the previous game with one more playing style - 麻將天下's rule. Players need to buy some cards or using PayPal to buy the in-game credits in order to play the game.
-	Scale: 1 programmer + 1 2D-designer + 1 3D-modeler
-	Duty: Change the platform from arcade to PC, need to handle more security issues and the keyboard and mouse input. 
-	Programming Language: Visual C++ 6.0 with game engine called TV3D.
+   Game Name: 麻雀皇x麻將天下 (April 2011 ~ December 2012)
+   Duration: 12 Months (Development) + Update & Maintenance (After Release)
+   Platform: PC Game
+   Description: An extension of the previous game with one more playing style - 麻將天下's rule. Players need to buy some cards or using PayPal to buy the in-game credits in order to play the game.
+   Scale: 1 programmer + 1 2D-designer + 1 3D-modeler
+   Duty: Change the platform from arcade to PC, need to handle more security issues and the keyboard and mouse input. 
+   Programming Language: Visual C++ 6.0 with game engine called TV3D.
 
-	Game Name: Card Mon Hero (December 2012 ~ May 2013)
-	Duration: 6 Months (Suspended due the some company issue)
-	Platform: IOS and Android
-	Description: Assemble a team of monsters to embark in dungeons. Battle with some cards playing with some rules. Any cards with same color or same number can be play in order. The many combo made, the more power gains for the monster to attack.
-	Scale: 1 programmer + 1 2D-designer + 1 3D-designer
-	Duty: Using the Unity3D to develop the client side and the game play. Need to handle the server side for the data storage and communication with the client.
-	Programming Language: Unity3D with NGUI, Server: VC++ 6.0
+   Game Name: Card Mon Hero (December 2012 ~ May 2013)
+   Duration: 6 Months (Suspended due the some company issue)
+   Platform: IOS and Android
+   Description: Assemble a team of monsters to embark in dungeons. Battle with some cards playing with some rules. Any cards with same color or same number can be play in order. The many combo made, the more power gains for the monster to attack.
+   Scale: 1 programmer + 1 2D-designer + 1 3D-designer
+   Duty: Using the Unity3D to develop the client side and the game play. Need to handle the server side for the data storage and communication with the client.
+   Programming Language: Unity3D with NGUI, Server: VC++ 6.0
 
-	Game Name: 百家樂 - Baccarat (May 2013 ~ September 2013)
-	Duration: 4 Months
-	Platform: Arcade Game
-	Description: Classic poker game with the standard casino rule.
-	Scale: 2 programmer + 1 2D-designer
-	Duty: Main duty is handling all the coding for the server side. I need to teach the junior programmer how the use the Unity3D to develop the client side.
-	Programming Language: Unity3D with NGUI, Server: VC++ 6.0
+   Game Name: 百家樂 - Baccarat (May 2013 ~ September 2013)
+   Duration: 4 Months
+   Platform: Arcade Game
+   Description: Classic poker game with the standard casino rule.
+   Scale: 2 programmer + 1 2D-designer
+   Duty: Main duty is handling all the coding for the server side. I need to teach the junior programmer how the use the Unity3D to develop the client side.
+   Programming Language: Unity3D with NGUI, Server: VC++ 6.0
 
-	Game Name: 火鳳燎原大戰 (September 2013 ~ December 2015)
-	Duration: 9 months (Development) + Update & Maintenance (After Release)
-	Platform: IOS and Android
-	Description: Real time strategy game using a team of five hero. The goal is to destroy the opponent's castle in order to win. Different hero has some unique skill to combo with. There are 5 types of army type which is better against each other so that different players will come up with different combination of heroes.
-	Scale: 4 programmers + 1 2D-designer + 1 3D-designer + 1 Game designer
-	Duty: Developing the game server for client communication, database management. Helping the junior programmer to develop the client side. And I coded about the 1 VS 1 special fight.
-	Programming Language: Unity3D with NGUI, Server: VC++ 6.0
+   Game Name: 火鳳燎原大戰 (September 2013 ~ December 2015)
+   Duration: 9 months (Development) + Update & Maintenance (After Release)
+   Platform: IOS and Android
+   Description: Real time strategy game using a team of five hero. The goal is to destroy the opponent's castle in order to win. Different hero has some unique skill to combo with. There are 5 types of army type which is better against each other so that different players will come up with different combination of heroes.
+   Scale: 4 programmers + 1 2D-designer + 1 3D-designer + 1 Game designer
+   Duty: Developing the game server for client communication, database management. Helping the junior programmer to develop the client side. And I coded about the 1 VS 1 special fight.
+   Programming Language: Unity3D with NGUI, Server: VC++ 6.0
 
-	Game Name: 夢界物語 (August 2016 ~ Janurary 2017)
-	Duration: 6 months
-	Platform: IOS and Android
-	Description: Role playing game with turn base strategy. The goal is to train some characters in order to battle with others. Different character has different skills to use during the battle. There are 5 types of elements which are better against each other.
-	Scale: About 40 people working with Taiwan colleagues including programmers, 2D designers, 3D designers, Animators, Marketing, Game designer, Game testers
-	Duty: Developing the client side of the game. Scheduling the tasks for me and the junior programmers and give some guidelines to them if needed. Develop the user interface is the main duty for me.
-	Programming Language: Unity3D with NGUI using C# script
+   Game Name: 夢界物語 (August 2016 ~ Janurary 2017)
+   Duration: 6 months
+   Platform: IOS and Android
+   Description: Role playing game with turn base strategy. The goal is to train some characters in order to battle with others. Different character has different skills to use during the battle. There are 5 types of elements which are better against each other.
+   Scale: About 40 people working with Taiwan colleagues including programmers, 2D designers, 3D designers, Animators, Marketing, Game designer, Game testers
+   Duty: Developing the client side of the game. Scheduling the tasks for me and the junior programmers and give some guidelines to them if needed. Develop the user interface is the main duty for me.
+   Programming Language: Unity3D with NGUI using C# script
 
-	Game Name: 億萬遺跡 (February 2017 ~ Now)
-	Duration: 18 months (Development) + Update & Maintenance (After Release)
-	Platform: IOS and Android
-	Description: Monopoly game with only cards. The goal is getting richer and richer. The winning condition of a game is to making the opponent bankrupts. Different characters have their own set of cards and playing styles.
-	Scale: 9 people including programmers, 2D designers, 3D designers, Animators, Marketing, Game designer
-	Duty: Developing both client and server side of the game. Scheduling the tasks for all teammates including me and give some guidelines to them if needed. Develop the user interface and coding card effect are the main duty for me.
-	Programming Language:
-		Client: Unity3D using C# script
-		Server: PHP, Node.js, MySQL, AWS, Docker
+   Game Name: 億萬遺跡 (February 2017 ~ Now)
+   Duration: 18 months (Development) + Update & Maintenance (After Release)
+   Platform: IOS and Android
+   Description: Monopoly game with only cards. The goal is getting richer and richer. The winning condition of a game is to making the opponent bankrupts. Different characters have their own set of cards and playing styles.
+   Scale: 9 people including programmers, 2D designers, 3D designers, Animators, Marketing, Game designer
+   Duty: Developing both client and server side of the game. Scheduling the tasks for all teammates including me and give some guidelines to them if needed. Develop the user interface and coding card effect are the main duty for me.
+   Programming Language:
+      Client: Unity3D using C# script
+      Server: PHP, Node.js, MySQL, AWS, Docker
