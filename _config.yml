@@ -68,8 +68,7 @@ apps:
    description: Monopoly game using cards
 
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
-additionalinfo: 
-<div>
+additionalinfo: >
 	Game Name: 撲克龍王 (March 2007 ~ June 2007)
 	Duration: 4 Months
 	Platform: Arcade Game
@@ -151,4 +150,3 @@ additionalinfo:
 	Programming Language:
 		Client: Unity3D using C# script
 		Server: PHP, Node.js, MySQL, AWS, Docker
-</div>
