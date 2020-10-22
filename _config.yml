@@ -28,9 +28,14 @@ skills:
 
 #Work experience is required
 roles:
+ - title: Technical Team Lead
+   start: Feb 2019
+   end: Ongoing
+   employer: AMVR
+   description: The company focus on MR / AR / VR virtual reality production for education and training. I am the technical team lead of this company. I need hands-on development and take care of others in order to complete the project on time. The hardware we used including HTC Vive, Oculus Quest, Hololens and Nreal and we use Unity3D with C# script. CSD, MTR, St John Ambulance are some of the clients' projects under my 
  - title: Project Manager / Development Lead
    start: Feb 2017
-   end: Ongoing
+   end: Feb 2019
    employer: Skytree Digital Limited
    description: It is a company with both app and game development. I am the project manager of game team. I am responsible for all the planning and scheduling of the whole project with server/client side of development. We use Unity3D with C# script as a game engine to develop the games.
  - title: Development Lead
